@@ -1,0 +1,8 @@
+def evenOrOdd(num):
+   if (num % 2 == 0):
+       print("even")
+   else:
+       print("odd")
+ 
+evenOrOdd(0)
+evenOrOdd(9999999)
